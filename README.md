@@ -34,7 +34,7 @@ A **Tower of Fantasy** AHK Script -- Use at your own peril. Reminder, this is on
 | **F14**           | Use 1                   | Turn on the use of the 1 skill.                                                                   |
 | **F15**           | Use 2                   | Turn on the use of the 2 skill.                                                                   |
 | **F16**           | Use 3                   | Turn on the use of the 3 skill.                                                                   |
-| **F17**           | Use 1                   | Toggle 1 2 and 3 skill.                                                                           |
+| **F17**           | Toggle All Extras       | Toggle 1 2 and 3 skill.                                                                           |
 | ----------------- | ----------------------- | ------------------------------------------------------------------------------------------------- |
 | **Numpad+Minus**  | Reduce Volume           | Reduces Volume in Increments of 15                                                                |
 | **Numpad+Plus**   | Increase Volume         | Increases Volume in Increments of 15                                                              |
