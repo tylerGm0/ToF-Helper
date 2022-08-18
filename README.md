@@ -42,7 +42,7 @@ A **Tower of Fantasy** AHK Script -- Use at your own peril. Reminder, this is on
 
 
 **Auto-Rotation Note/Use Extras:** Please note that the way Auto-Rotation works is turning off via special KeyBinds. So by default ALT+R turns on
-your rotation, however, you also have access to adding in abilities (Extras) into the rotation via Use1/Use2/Use3, these are done via the F13/F14/F15/F16
+your rotation, however, you also have access to adding in abilities (Extras) into the rotation via Use1/Use2/Use3, these are done via the F13/F14/F15/F16/F17
 HotKeys. If you do not know how to or have a keyboard able to use these Function keys, you can go to **modules/Combat/Base.ahk** and change the bindings
 
 **Infinite Climb Note:** Thank you to ToFU-AHK-Flex for this as my own Infinite Climb was sub-par, his had perfect timings and never failed.
