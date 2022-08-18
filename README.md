@@ -1,6 +1,6 @@
 # ToF-Helper-AHK
 
-A **Tower of Fantasy** AHK Script -- Use at your own peril.
+A **Tower of Fantasy** AHK Script -- Use at your own peril. Reminder, this is only for resolution 1920x1080 for the majority of the helper features. The rotation features and auto loot work regardless of resolution.
 
 **Risk Factors**: I have used similar scripts in most games for over a decade and haven't been banned, but Your Mileage May Vary.
 
