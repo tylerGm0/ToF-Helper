@@ -30,14 +30,19 @@ A **Tower of Fantasy** AHK Script -- Use at your own peril. Reminder, this is on
 | **Numpad 6**      | Config Relic Set 3      | Open and Config Relic Set 3 (STILL ADDING THIS FEATURE)                                           |
 | **Numpad 7**      | Infinite Climb          | Press this while on Wall to instantly climb up a ways without using stamina **SEE NOTE BELOW**    |
 | ----------------- | ----------------------- | ------------------------------------------------------------------------------------------------- |
+| **F13**           | Use Extras              | Turn on the use of the Extra buttons (1/2/3) **SEE NOTE BELOW**                                   |
+| **F14**           | Use 1                   | Turn on the use of the 1 skill.                                                                   |
+| **F15**           | Use 2                   | Turn on the use of the 2 skill.                                                                   |
+| **F16**           | Use 3                   | Turn on the use of the 3 skill.                                                                   |
+| **F17**           | Use 1                   | Toggle 1 2 and 3 skill.                                                                           |
+| ----------------- | ----------------------- | ------------------------------------------------------------------------------------------------- |
 | **Numpad+Minus**  | Reduce Volume           | Reduces Volume in Increments of 15                                                                |
 | **Numpad+Plus**   | Increase Volume         | Increases Volume in Increments of 15                                                              |
 | **Numpad+Mult**   | Mute / Unmute           | Flips Volume for This App from Muted to Unmuted.                                                  |
 
 
-**Auto-Rotation Note:** When using this note that if you go into ToF-Helper.ahk and look for the F14 Keybinding like below, 
-you can change the F14 to an alternative key. This key turns on Use 1 which will auto use your 1 ability in your rotation as well.
-I will be switching this soon and using image scanning to detect what weapons you have on and it will just auto use 1 on the weapons
-that it's ok to use on. That awill take a bit due to the transparencies in the weapon looks, makes for a tough time screen scanning.
+**Auto-Rotation Note/Use Extras:** Please note that the way Auto-Rotation works is turning off via special KeyBinds. So by default ALT+R turns on
+your rotation, however, you also have access to adding in abilities (Extras) into the rotation via Use1/Use2/Use3, these are done via the F13/F14/F15/F16
+HotKeys. If you do not know how to or have a keyboard able to use these Function keys, you can go to **modules/Combat/Base.ahk** and change the bindings
 
 **Infinite Climb Note:** Thank you to ToFU-AHK-Flex for this as my own Infinite Climb was sub-par, his had perfect timings and never failed.
